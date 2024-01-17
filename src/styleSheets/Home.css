@@ -1,0 +1,21 @@
+.home {
+    text-align: left;
+    position: absolute;
+    top: 45%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+}
+
+.title {
+    font-family: Arial;
+    font-weight: bold;
+    color: #2d2e32;
+    font-size: 50px;
+}
+
+.description {
+    background-color: #fff;
+    color: #555555;
+    font-family: Poppins,sans-serif;
+    font-size: 18px;
+}
