@@ -15,7 +15,7 @@ To explore and run this portfolio locally, follow these simple steps:
    
    ```bash
    cd MyPortfolio
-3. Install the node modules run:
+3. To install the node modules run:
 
    ```bash
    npm install
@@ -32,5 +32,5 @@ after all the steps it will launch the portfolio website in your default web bro
 
 All notable changes to this project will be documented in this file.
 
-[1.0.0] - 17/1/2024
+[1.0.0] - 18/1/2024
 Created the website and functional.
