@@ -1,21 +1,47 @@
+/* Home.css */
+
 .home {
     text-align: left;
     position: absolute;
     top: 45%;
-    left: 40%;
+    left: 50%;
     transform: translate(-50%, -50%);
-}
-
-.title {
+    display: flex; /* Use flexbox to arrange items */
+  }
+  
+  .logo-container {
+    margin-right: 20px; /* Add some spacing between logo and text */
+  }
+  
+  .text-container {
+    margin-right: 20px; /* Add some spacing between text and image */
+  }
+  
+  .title {
     font-family: Arial;
     font-weight: bold;
     color: #2d2e32;
-    font-size: 50px;
-}
-
-.description {
+    font-size: 40px;
+  }
+  
+  .description {
     background-color: #fff;
     color: #555555;
-    font-family: Poppins,sans-serif;
-    font-size: 18px;
+    font-family: Poppins, sans-serif;
+    font-size: 20px;
+  }
+  
+  .img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 10px;
+    margin-left: 50px; /* Add margin to the left for the gap */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+  }
+  
+  .logo {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    margin-top: 50px; /* Play around with this value to get the right adjustment */
 }
