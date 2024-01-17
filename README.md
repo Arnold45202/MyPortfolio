@@ -4,7 +4,7 @@ Welcome to my personal portfolio built with React! 🚀
 
 ## Overview
 
-This portfolio showcases my skills, projects, and a bit about myself. It was created using React, making it easy to maintain and customize.
+This portfolio was created for me to farmlise with React and to showcase my skills, projects, and a bit about myself.
 
 ## How to Run
 
@@ -14,20 +14,26 @@ To explore and run this portfolio locally, follow these simple steps:
 
    ```bash
    git clone git@github.com:Arnold45202/MyPortfolio.git
-2. Change into the directory
+2. Change into the directory 
    
    ```bash
    cd MyPortfolio
-3. Install the node modules
+3. Install the node modules run:
 
    ```bash
    npm install
 
-4.  In order to start the website
+4. To start the website, run:
 
    ```bash
    npm start
 
-aftare all this will launch the portfolio in your default web browser at http://localhost:3000.
+after all the steps it will launch the portfolio website in your default web browser at http://localhost:3000.
 
    
+## Changelog
+
+All notable changes to this project will be documented in this file.
+
+[1.0.0] - 17/1/2024
+Created the website and functional.
