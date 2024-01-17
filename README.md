@@ -1,7 +1,4 @@
 # Jackson Wang's Portfolio
-
-Welcome to my personal portfolio built with React! 🚀
-
 ## Overview
 
 This portfolio was created for me to farmlise with React and to showcase my skills, projects, and a bit about myself.
