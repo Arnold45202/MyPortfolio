@@ -1,0 +1,35 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  display: flex;
+  flex-direction: column; /* Align content in a column */
+  align-items: center; /* Center the content horizontally */
+}
+  
+.footer div {
+  display: flex;
+  gap: 10px;
+  align-items: center; /* Center the contents of the div vertically */
+}
+  
+.footer div svg {
+  color: white; /* Adjusting the color to match the footer text */
+  background-color: black;
+  border-radius: 50%;
+  padding: 5px;
+}
+  
+.footer p {
+  font-size: 12px;
+  font-family: 'Times New Roman', Times, serif;
+  margin: 0;
+}
+  
+.footer div:last-child {
+  margin-top: 10px; /* Add some space between logos and copyright text */
+}

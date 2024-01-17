@@ -1,0 +1,50 @@
+/* Navbar.css */
+.navbar {
+    position: fixed;
+    right: calc(50% - 500px);
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: white;
+    top: 20px;
+  }
+  
+  .links {
+    display: flex;
+    gap: 25px;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    font-family: 'Arial', sans-serif;
+    color: black;
+    font-size: 16px;
+    transition: opacity 0.3s ease;
+  }
+  
+  .nav-link:hover {
+    opacity: 0.5;
+  }
+  
+  /* Responsive styles */
+  @media (max-width: 1200px) {
+    .navbar {
+      right: calc(50% - 400px); /* Adjust the position for smaller screens */
+    }
+  }
+  
+  @media (max-width: 1000px) {
+    .navbar {
+      right: calc(50% - 300px); /* Further adjust the position for even smaller screens */
+    }
+  }
+  
+  @media (max-width: 800px) {
+    .navbar {
+      right: 20px; /* Move the navbar to the right for small screens */
+      left: auto;
+    }
+  }
+  
+  /* Add more media queries as needed */
+  
