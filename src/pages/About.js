@@ -45,7 +45,7 @@ function About() {
           </p>
         </section>
       </div>
-      <img src='images/aboutuspic.png' className='aboutus'/>
+      <img src='https://media.discordapp.net/attachments/949224467127746610/1197320830854627408/aboutuspic.png?ex=65bad6eb&is=65a861eb&hm=335b324e6e646a3329cb79e61e459814c66ad07259aef24a4e228d3ea7d3f9ab&=&format=webp&quality=lossless&width=482&height=584' className='aboutus'/>
     </div>
   );
 }

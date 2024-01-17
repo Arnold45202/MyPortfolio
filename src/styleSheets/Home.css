@@ -34,7 +34,7 @@
   .img {
     width: 100%;
     max-width: 300px;
-    border-radius: 10px;
+    border-radius: 60px;
     margin-left: 50px; /* Add margin to the left for the gap */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
   }
