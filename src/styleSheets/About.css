@@ -1,48 +1,36 @@
-/* Add some basic styling to your page */
-body {
-    font-family: 'Arial', sans-serif;
-    margin: 0;
-    padding: 0;
-    color: #333;
-  }
-  
-  /* Style each section */
-  section {
-    width: 50%; /* Adjust if necessary */
-    padding: 20px;
-    margin-left: 30px;
+.top {
+    margin-top: 100px;
+}
+
+h1 {
+    color: #2d2e32;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+h2 {
+    color: #2d2e32;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+p {
+    background-color: #fff;
+    color: #555555;
+    font-family: Poppins, sans-serif;
+}
+
+section {
+    margin-left: 80px;
+}
+
+div {
     display: inline-block;
-  }
-  
-  /* Style your h1 */
-  h1 {
-    text-align: center;
-  }
-  
-  .first-part {
-    text-align: center;
-  }
-  
-  /* Style your h2 */
-  h2 {
-    color: #333;
-  }
-  
-  /* Style your image */
-  img {
-    width: 30%; /* Adjust if necessary */
-    float: right; /* Float the image to the right */
-    margin-right: 30px; /* Add some margin to the right for spacing */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    margin-bottom: 300px;
-  }
-  
-  /* Responsive layout for smaller screens */
-  @media (max-width: 768px) {
-    section, img {
-      width: 80%;
-      float: none; /* Remove float on smaller screens to stack image below the details */
-      margin-right: 0; /* Remove margin on smaller screens */
-    }
-  }
-  
+}
+
+img {
+    float: right;  
+    margin-left: 140px;
+    margin-top: 110px;
+    border-radius: 10px;
+}
