@@ -13,17 +13,17 @@ To explore and run this portfolio locally, follow these simple steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/JacksonWang/your-portfolio-repo.git
-2. change into the directory
+   git clone git@github.com:Arnold45202/MyPortfolio.git
+2. Change into the directory
    
    ```bash
    cd MyPortfolio
-3. install the node modules
+3. Install the node modules
 
    ```bash
    npm install
 
-4. in order to start the server
+4.  In order to start the website
 
    ```bash
    npm start
