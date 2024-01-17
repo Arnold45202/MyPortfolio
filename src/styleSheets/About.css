@@ -1,20 +1,23 @@
-.top {
+.toppp {
     margin-top: 100px;
-}
-
-h1 {
     color: #2d2e32;
     font-family: Arial;
     font-weight: bold;
 }
 
-h2 {
+.top{
     color: #2d2e32;
     font-family: Arial;
     font-weight: bold;
 }
 
-p {
+.top {
+    color: #2d2e32;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.first-part {
     background-color: #fff;
     color: #555555;
     font-family: Poppins, sans-serif;
@@ -28,7 +31,7 @@ div {
     display: inline-block;
 }
 
-img {
+.aboutus {
     float: right;  
     margin-left: 140px;
     margin-top: 110px;

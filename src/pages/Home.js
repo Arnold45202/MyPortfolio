@@ -14,7 +14,7 @@ function Home() {
           Passionate Software Engineering student @UNSW
         </h1>
         <p className='description'>
-          Hey! I'm Jackson Wang, always eager to learn, <br />A student looking for opportunities based in <br /> Sydney, Australia 📍
+          Hey! I'm Jackson Wang, always eager to learn, <br />a student looking for opportunities based in <br /> Sydney, Australia 📍
         </p>
       </div>
       <img src='/images/thumbsup.jpg' alt='Thumbs Up' className='img' />

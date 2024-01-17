@@ -17,7 +17,7 @@ function Footer() {
         <a href="https://github.com/Arnold45202" target="_blank" rel="noopener noreferrer">
           <GitHubIcon />
         </a>
-        <p> Copyright &copy; 2024 jacksonwang.github.io</p>
+        <p> Copyright &copy; 2024 arnold45202.github.io</p>
       </div>
     </div>
   );
