@@ -7,7 +7,7 @@ function Home() {
   return (
     <div className='home'>
       <div className='logo-container'>
-        <img src='/images/UnswLogo.png' className='logo' />
+        <img src="images/UnswLogo.png" className='logo' />
       </div>
       <div className='text-container'>
         <h1 className='title'>
@@ -17,7 +17,7 @@ function Home() {
           Hey! I'm Jackson Wang, always eager to learn, <br />a student looking for opportunities based in <br /> Sydney, Australia 📍
         </p>
       </div>
-      <img src='/images/thumbsup.jpg' alt='Thumbs Up' className='img' />
+      <img src='logo192.png' alt='Thumbs Up' className='img' />
     </div>
   );
 }
