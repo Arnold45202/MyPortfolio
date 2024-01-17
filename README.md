@@ -15,7 +15,7 @@ To explore and run this portfolio locally, follow these simple steps:
    
    ```bash
    cd MyPortfolio
-3. Install the node modules run:
+3. To install the node modules run:
 
    ```bash
    npm install
