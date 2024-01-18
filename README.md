@@ -35,6 +35,7 @@ All notable changes to this project will be documented in this file.
 
 [1.0.0] - 18/01/2024
 Created the website and functional.
+
 [1.0.1] - 19/01/2024 
 Added one extra project which is my portfolio website
 
