@@ -1,0 +1,46 @@
+/* Contacts.css */
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  
+  .contacts div {
+    text-align: center;
+  }
+  
+  .contacts form {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .contacts input,
+  .contacts textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  
+  .contacts button {
+    background-color: #2d2e32;;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .contacts button:hover {
+    background-color: #2d2e32;;
+    opacity: 0.5;
+  }
+  
+  .contacts-title {
+    font-family: Arial;
+    font-weight: bold;
+    color: #2d2e32;
+  }
+  
