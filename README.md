@@ -33,5 +33,9 @@ after all the steps it will launch the portfolio website in your default web bro
 
 All notable changes to this project will be documented in this file.
 
-[1.0.0] - 18/1/2024
+[1.0.0] - 18/01/2024
 Created the website and functional.
+
+## Errors yet to be fixed 
+
+18/01/2024 - when i go onto projects the nav bar moves a little bit, small error yet to be fixed right now 
