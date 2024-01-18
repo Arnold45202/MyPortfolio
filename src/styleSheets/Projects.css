@@ -1,0 +1,50 @@
+.project-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: center;
+    height: 100vh;
+  }
+  
+  .project-box {
+    display: flex;
+    flex-direction: column; /* Change flex-direction to column */
+    align-items: center;
+    padding: 20px;
+    max-width: 600px;
+    margin: 20px auto 0;
+  }
+  
+  .project-title {
+    margin-top: 10px; /* Adjust margin for spacing between image and title */
+    margin-bottom: 10px;
+    font-family: Arial;
+    font-weight: bold;
+    color: #2d2e32;
+    font-size: 40px;
+    text-decoration: none;
+  }
+
+  .Project-title:hover {
+    color: blue;
+    opacity: 0.5;
+  }
+  
+  .gamePicture {
+    width: 350px;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .project-details {
+    margin-top: 10px;
+  }
+  
+  .title3 {
+    font-family: Arial;
+    font-weight: bold;
+    color: #2d2e32;
+    font-size: 40px;
+    margin-top: 80px;
+  }

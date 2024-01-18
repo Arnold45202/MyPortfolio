@@ -27,13 +27,14 @@ section {
     margin-left: 80px;
 }
 
-div {
+.writing {
     display: inline-block;
 }
 
 .aboutus {
     float: right;  
     margin-left: 140px;
-    margin-top: 110px;
-    border-radius: 10px;
+    margin-right: 350px;
+    margin-top: 130px;
+    border-radius: 30px;
 }
