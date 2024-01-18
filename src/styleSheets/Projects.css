@@ -16,18 +16,16 @@
     margin: 20px auto 0;
   }
   
-  .project-title {
-    margin-top: 10px; /* Adjust margin for spacing between image and title */
+  .project-container a {
+    margin-top: 10px; 
     margin-bottom: 10px;
     font-family: Arial;
     font-weight: bold;
     color: #2d2e32;
     font-size: 40px;
-    text-decoration: none;
   }
 
   .Project-title:hover {
-    color: blue;
     opacity: 0.6;
   }
   
@@ -47,4 +45,17 @@
     color: #2d2e32;
     font-size: 40px;
     margin-top: 80px;
+  }
+
+  .second-title {
+    font-family: Arial;
+    font-weight: bold;
+    color: #2d2e32;
+    font-size: 20px;
+  }
+
+  .project-container p {
+    color: #555555;
+    font-family: Poppins, sans-serif;
+    font-size: 17px;
   }
