@@ -36,6 +36,13 @@ All notable changes to this project will be documented in this file.
 [1.0.0] - 18/01/2024
 Created the website and functional.
 
+[1.0.1] - 19/01/2024 
+Added one extra project which is my portfolio website
+
 ## Errors yet to be fixed 
 
 18/01/2024 - when i go onto projects the nav bar moves a little bit, small error yet to be fixed right now 
+
+19/01/2024 - at the bottom i can't see the github logo becuase of the footer need to change the footer to be at hte really bottom
+
+19/01/2024 - when I submit a form for message and it would refresh but it would refresh and it would show result not found 
