@@ -44,6 +44,9 @@ Added one extra project which is my portfolio website
 [1.0.2] - 19/01/2024 
 Fixed the picture in home screen when you minimise your screen it would squeeze the picture fixed it to me the same when compressed
 
+[1.0.3] - 19/01/2024 
+added a favicon and a tab name for each home, about, projects and contacts
+
 ## Errors yet to be fixed 
 
 18/01/2024 - when i go onto projects the nav bar moves a little bit, small error yet to be fixed right now 
