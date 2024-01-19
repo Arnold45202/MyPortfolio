@@ -39,7 +39,7 @@ function Projects() {
           <a href="https://arnold45202.github.io/MyPortfolio/" target="_blank" rel="noopener noreferrer" className='Project-title'><img className='gamePicture' src="https://cdn.discordapp.com/attachments/890136733923033119/1197493881214865428/image.png?ex=65bb7815&is=65a90315&hm=44eae855a06510fcc8d9b635faea50d194ce5ae190d0bb393300b4db380f28e8&" alt="Project Image" /></a>
           <div className="project-details">
             <h2 className="project-title"><a href="https://arnold45202.github.io/MyPortfolio/" target="_blank" rel="noopener noreferrer" className='Project-title'>My Portfolio</a></h2>
-            <h2 className='second-title'>Tech Stack: React.js, CSS and web3form</h2>
+            <h2 className='second-title'>Tech Stack: Javascript, React, CSS and web3form</h2>
             <p>This portfolio was created for me to farmlise with React and to showcase my skills, projects, and a bit about myself.</p>
             <a href="https://github.com/Arnold45202/MyPortfolio" target="_blank" rel="noopener noreferrer" className='github-logo'>
               <GitHubIcon />
