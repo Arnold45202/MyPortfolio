@@ -33,3 +33,7 @@
 .footer div:last-child {
   margin-top: 10px;
 }
+
+.linkdln-logo:hover {
+  opacity: 0.5;
+}

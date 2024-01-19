@@ -19,7 +19,7 @@ function Projects() {
             <h2 className="project-title"><a href="https://arnold45202.github.io/MyPortfolio/" target="_blank" rel="noopener noreferrer" className='Project-title'>weatherAPI (In the making)</a></h2>
             <h2 className='second-title'>Tech Stack: react, typescript, material UI, weatherOpenMap Api</h2>
             <p>Creating a weatherAPI where it would check the temparature and stuff and possible adding forecasting on the website</p>
-            <a href="https://github.com/Arnold45202/weatherApi" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Arnold45202/weatherApi" target="_blank" rel="noopener noreferrer" className='github-logo'>
               <GitHubIcon />
             </a>
           </div>
@@ -30,7 +30,7 @@ function Projects() {
             <h2 className="project-title"><a href="https://arcadegamedown.000webhostapp.com/index.html" target="_blank" rel="noopener noreferrer" className='Project-title'>Game Rush</a></h2>
             <h2 className='second-title'>Tech Stack: HTML/CSS, Python, Javascript and pyscript</h2>
             <p>This is a game website where I got to learn how to make a game website, where it has like the childhood games such as like tic tac toe etc, By doing this I learnt how to code using html/css and python.</p>
-            <a href="https://github.com/Arnold45202/Games" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Arnold45202/Games" target="_blank" rel="noopener noreferrer" className='github-logo'>
               <GitHubIcon />
             </a>
           </div>
@@ -41,7 +41,7 @@ function Projects() {
             <h2 className="project-title"><a href="https://arnold45202.github.io/MyPortfolio/" target="_blank" rel="noopener noreferrer" className='Project-title'>My Portfolio</a></h2>
             <h2 className='second-title'>Tech Stack: React.js, CSS and web3form</h2>
             <p>This portfolio was created for me to farmlise with React and to showcase my skills, projects, and a bit about myself.</p>
-            <a href="https://github.com/Arnold45202/MyPortfolio" target="_blank" rel="noopener noreferrer" className='bottom'>
+            <a href="https://github.com/Arnold45202/MyPortfolio" target="_blank" rel="noopener noreferrer" className='github-logo'>
               <GitHubIcon />
             </a>
           </div>
@@ -52,7 +52,7 @@ function Projects() {
             <h2 className="project-title"><a href="https://kandjtakeaway.netlify.app" target="_blank" rel="noopener noreferrer" className='Project-title'>K and J takeaway</a></h2>
             <h2 className='second-title'>Tech Stack: HTML/CSS</h2>
             <p>This website was made in order to allow customers to serach up the website and look at the pricing of the food easier</p>
-            <a href="https://github.com/Arnold45202/K-and-J-takeaway-website" target="_blank" rel="noopener noreferrer" className='bottom'>
+            <a href="https://github.com/Arnold45202/K-and-J-takeaway-website" target="_blank" rel="noopener noreferrer" className='github-logo'>
               <GitHubIcon />
             </a>
           </div>
