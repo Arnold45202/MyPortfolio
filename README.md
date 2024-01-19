@@ -33,7 +33,7 @@ after all the steps it will launch the portfolio website in your default web bro
    
 ## Changelog
 
-All notable changes to this project will be documented in this file.
+All notable changes to this project will be documented down here.
 
 [1.0.0] - 18/01/2024
 Created the website and functional.
