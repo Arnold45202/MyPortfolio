@@ -16,7 +16,7 @@ function Projects() {
         <div className="project-box">
           <a href="https://arnold45202.github.io/MyPortfolio/" target="_blank" rel="noopener noreferrer" className='Project-title'><img className='gamePicture' src="https://cdn.discordapp.com/attachments/949224467127746610/1197752350429958215/IMG_0128.jpg?ex=65bc68cd&is=65a9f3cd&hm=cced1e50c3dd29b06d5aa229c71514113843d731f864f580405eec16fae2dbf0&" alt="Project Image" /></a>
           <div className="project-details">
-            <h2 className="project-title"><a href="https://arnold45202.github.io/MyPortfolio/" target="_blank" rel="noopener noreferrer" className='Project-title'>weatherAPI</a></h2>
+            <h2 className="project-title"><a href="https://arnold45202.github.io/MyPortfolio/" target="_blank" rel="noopener noreferrer" className='Project-title'>weatherAPI (In the making)</a></h2>
             <h2 className='second-title'>Tech Stack: react, typescript, material UI, weatherOpenMap Api</h2>
             <p>Creating a weatherAPI where it would check the temparature and stuff and possible adding forecasting on the website</p>
             <a href="https://github.com/Arnold45202/weatherApi" target="_blank" rel="noopener noreferrer">

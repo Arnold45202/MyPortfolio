@@ -8,9 +8,6 @@ function Footer() {
   return (
     <div className='footer'>
       <div>
-        <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">
-          <InstagramIcon />
-        </a>
         <a href="https://www.linkedin.com/in/jackson-wang-75357129a/" target="_blank" rel="noopener noreferrer">
           <LinkedInIcon />
         </a>
