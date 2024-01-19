@@ -48,7 +48,10 @@ Fixed the picture in home screen when you minimise your screen it would squeeze 
 added a favicon and a tab name for each home, about, projects and contacts
 
 [1.0.4] - 19/01/2024
-added two extra projects, where it is weatherApi in the making and added a Food restaurant takeaway website
+added two extra projects, where it is weatherApi and Food restaurant takeaway website
+
+[1.0.5] - 19/01/2024
+added a helmat to the website, where it shows the og:title and description.
 
 ## Errors yet to be fixed 
 
