@@ -14,11 +14,11 @@ function Projects() {
         <h1 className='title3'>My Projects!</h1>
         <p>Check out my projects I did thorughout the summer and my term breaks</p>
         <div className="project-box">
-          <a href="https://arnold45202.github.io/MyPortfolio/" target="_blank" rel="noopener noreferrer" className='Project-title'><img className='gamePicture' src="https://cdn.discordapp.com/attachments/949224467127746610/1197752350429958215/IMG_0128.jpg?ex=65bc68cd&is=65a9f3cd&hm=cced1e50c3dd29b06d5aa229c71514113843d731f864f580405eec16fae2dbf0&" alt="Project Image" /></a>
+          <a href="https://whatstheweatherrightnow.netlify.app/" target="_blank" rel="noopener noreferrer" className='Project-title'><img className='gamePicture' src="https://cdn.discordapp.com/attachments/949224467127746610/1197826587136098304/image.png?ex=65bcadf0&is=65aa38f0&hm=9c9fef2246c5b34ccfd8d1397eb4c8c4fd48a51a330334f82f2dabe86c2493b7&&" alt="Project Image" /></a>
           <div className="project-details">
-            <h2 className="project-title"><a href="https://arnold45202.github.io/MyPortfolio/" target="_blank" rel="noopener noreferrer" className='Project-title'>weatherAPI (In the making)</a></h2>
+            <h2 className="project-title"><a href="https://whatstheweatherrightnow.netlify.app/" target="_blank" rel="noopener noreferrer" className='Project-title'>weatherAPI</a></h2>
             <h2 className='second-title'>Tech Stack: react, typescript, material UI, weatherOpenMap Api</h2>
-            <p>Creating a weatherAPI where it would check the temparature and stuff and possible adding forecasting on the website</p>
+            <p>Created a weatherAPI where I get to learn how to take in real time data from online to build a website, This website would check the weather of your location also the temparature etc, the emoji would change based on the given variables. </p>
             <a href="https://github.com/Arnold45202/weatherApi" target="_blank" rel="noopener noreferrer" className='github-logo'>
               <GitHubIcon />
             </a>
