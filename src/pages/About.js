@@ -3,11 +3,12 @@ import '../styleSheets/About.css';
 
 function About() {
   return (
-    <div>
+    <div className='about-container'>
       <div className='writing'>
         <section>
           <h1 className='toppp'>About Me</h1>
-          <p className='first-part'>19 year old From New Zealand, studying Software Engineering at UNSW</p>
+          <p className='first-part'>19 year old From New Zealand, studying Software Engineering at UNSW <br></br> 
+          Currently self learning Object-oriented programming and cloud computing by aws.</p>
         </section>
 
         <section>
