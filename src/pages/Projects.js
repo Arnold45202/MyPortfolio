@@ -1,9 +1,13 @@
 // Projects.js
-import React from 'react';
+import React, { useEffect } from 'react';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import '../styleSheets/Projects.css';
 
 function Projects() {
+  useEffect(() => {
+    document.title = 'Projects';
+  }, []);
+
   return (
     <div>
       <div className="project-container">

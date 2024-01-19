@@ -1,7 +1,11 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import '../styleSheets/About.css';
 
 function About() {
+  useEffect(() => {
+    document.title = 'About Me';
+  }, []);
+
   return (
     <div className='about-container'>
       <div className='writing'>

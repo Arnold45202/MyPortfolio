@@ -1,9 +1,13 @@
-/* Home.js */
-
-import React from 'react';
+import React, { useEffect } from 'react';
 import '../styleSheets/Home.css';
 
 function Home() {
+  useEffect(() => {
+    document.title = 'Home';
+    const favicon = document.querySelector('link[rel="icon"]');
+    favicon.href = 'https://cdn.discordapp.com/attachments/890136733923033119/1197080281547546685/A77CC146-1A5D-4DFB-B7A1-9608FFBC9695-545-000001136FE557B9.jpg?ex=65b9f6e3&is=65a781e3&hm=b12239264d9daad06682a537425929477602b9386a8aa88fe864fb9bd299e149&';
+  }, []);
+
   return (
     <div className='home'>
       <div className='logo-container'>
