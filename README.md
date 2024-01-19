@@ -33,13 +33,16 @@ after all the steps it will launch the portfolio website in your default web bro
    
 ## Changelog
 
-All notable changes to this project will be documented in this file.
+All notable changes to this project will be documented down here.
 
 [1.0.0] - 18/01/2024
 Created the website and functional.
 
 [1.0.1] - 19/01/2024 
 Added one extra project which is my portfolio website
+
+[1.0.2] - 19/01/2024 
+Fixed the picture in home screen when you minimise your screen it would squeeze the picture fixed it to me the same when compressed
 
 ## Errors yet to be fixed 
 
