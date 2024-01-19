@@ -47,6 +47,9 @@ Fixed the picture in home screen when you minimise your screen it would squeeze 
 [1.0.3] - 19/01/2024 
 added a favicon and a tab name for each home, about, projects and contacts
 
+[1.0.4] - 19/01/2024
+added two extra projects, where it is weatherApi in the making and added a Food restaurant takeaway website
+
 ## Errors yet to be fixed 
 
 18/01/2024 - when i go onto projects the nav bar moves a little bit, small error yet to be fixed right now 
