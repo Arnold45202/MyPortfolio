@@ -16,9 +16,9 @@ function Projects() {
         <div className="project-box">
           <a href="https://whatstheweatherrightnow.netlify.app/" target="_blank" rel="noopener noreferrer" className='Project-title'><img className='gamePicture' src="https://cdn.discordapp.com/attachments/949224467127746610/1197826587136098304/image.png?ex=65bcadf0&is=65aa38f0&hm=9c9fef2246c5b34ccfd8d1397eb4c8c4fd48a51a330334f82f2dabe86c2493b7&&" alt="Project Image" /></a>
           <div className="project-details">
-            <h2 className="project-title"><a href="https://whatstheweatherrightnow.netlify.app/" target="_blank" rel="noopener noreferrer" className='Project-title'>weatherAPI</a></h2>
+            <h2 className="project-title"><a href="https://whatstheweatherrightnow.netlify.app/" target="_blank" rel="noopener noreferrer" className='Project-title'>Weather website</a></h2>
             <h2 className='second-title'>Tech Stack: react, typescript, material UI, weatherOpenMap Api</h2>
-            <p>Created a weatherAPI where I get to learn how to take in real time data from online to build a website, This website would check the weather of your location also the temparature etc, the emoji would change based on the given variables. </p>
+            <p>Created a weather App where I get to learn how to take in real time data from an API online to build a website, This website would check the weather of your location also the temparature etc, the emoji would change based on the given variables. </p>
             <a href="https://github.com/Arnold45202/weatherApi" target="_blank" rel="noopener noreferrer" className='github-logo'>
               <GitHubIcon />
             </a>
