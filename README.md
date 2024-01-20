@@ -53,6 +53,9 @@ added two extra projects, where it is weatherApi and Food restaurant takeaway we
 [1.0.5] - 19/01/2024
 added a helmat to the website, where it shows the og:title and description.
 
+[1.0.6] - 19/01/2024
+added a new project that i collabed with my friends this summer which is a gambling called riskit
+
 ## Errors yet to be fixed 
 
 18/01/2024 - when i go onto projects the nav bar moves a little bit, small error yet to be fixed right now 
