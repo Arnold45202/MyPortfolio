@@ -19,12 +19,12 @@ const App = () => {
 
       <Navbar />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/MyPortfolio" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/projects" element={<Projects />} />
         <Route path="/contacts" element={<Contacts />} />
         {/* Redirects any other route to Home */}
-        <Route path="*" element={<Navigate to="/" replace />} />
+        <Route path="*" element={<Navigate to="/MyPortfolio" replace />} />
       </Routes>
       <Footer />
     </Router>
