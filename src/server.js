@@ -1,18 +1,17 @@
-// server.js
 const express = require('express');
 const path = require('path');
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 
-// Serve static files from the 'build' directory (assuming this is where your React build output is)
+// Serve static files from the React app
 app.use(express.static(path.join(__dirname, 'build')));
 
-// Route all requests to the main 'index.html' file
-app.get('/*', (req, res) => {
+// The catch-all handler for any request that doesn't
+// match one above, send back React's index.html file.
+app.get('*', (req, res) => {
   res.sendFile(path.join(__dirname, 'build', 'index.html'));
 });
 
-// Start the server
 app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
+  console.log(`Server is running on http://localhost:${PORT}`);
 });

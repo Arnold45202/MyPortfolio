@@ -6,6 +6,8 @@ import '../styleSheets/Projects.css';
 function Projects() {
   useEffect(() => {
     document.title = 'Projects';
+    const favicon = document.querySelector('link[rel="icon"]');
+    favicon.href = 'https://cdn.discordapp.com/attachments/890136733923033119/1199279834975698974/favicon-16x16.png?ex=65c1f762&is=65af8262&hm=69191c4021ac44970c1e4f05cfa7eedcf64091d3346ddef0bff0295a08493ef2&';
   }, []);
 
   return (
