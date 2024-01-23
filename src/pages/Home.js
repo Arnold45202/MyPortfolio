@@ -1,11 +1,12 @@
 import React, { useEffect } from 'react';
 import '../styleSheets/Home.css';
+import favicon from '../assets/favicon-16x16.png';
 
 function Home() {
   useEffect(() => {
     document.title = 'Home';
     const favicon = document.querySelector('link[rel="icon"]');
-    favicon.href = 'https://cdn.discordapp.com/attachments/890136733923033119/1197080281547546685/A77CC146-1A5D-4DFB-B7A1-9608FFBC9695-545-000001136FE557B9.jpg?ex=65b9f6e3&is=65a781e3&hm=b12239264d9daad06682a537425929477602b9386a8aa88fe864fb9bd299e149&';
+    favicon.href = 'https://cdn.discordapp.com/attachments/890136733923033119/1199279834975698974/favicon-16x16.png?ex=65c1f762&is=65af8262&hm=69191c4021ac44970c1e4f05cfa7eedcf64091d3346ddef0bff0295a08493ef2&';
   }, []);
 
   return (

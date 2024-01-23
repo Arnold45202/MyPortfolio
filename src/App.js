@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import { Helmet } from 'react-helmet';
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
@@ -14,15 +14,17 @@ const App = () => {
     <Router>
       <Helmet>
         <meta property="og:title" content="Jackson's Portfolio" />
-        <meta property="og:description" content="Hi, I built this website to farmlise myself with react and to showcase my skill/projects and a little about me :)" />
+        <meta property="og:description" content="Hi, I built this website to familiarise myself with react and to showcase my skills/projects and a little about me :)" />
       </Helmet>
 
       <Navbar />
       <Routes>
         <Route path="/MyPortfolio" element={<Home />} />
-        <Route path="/MyPortfolio/about" element={<About />} />
-        <Route path="/MyPortfolio/projects" element={<Projects />} />
-        <Route path="/MyPortfolio/contacts" element={<Contacts />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/projects" element={<Projects />} />
+        <Route path="/contacts" element={<Contacts />} />
+        {/* Redirects any other route to Home */}
+        <Route path="*" element={<Navigate to="/MyPortfolio" replace />} />
       </Routes>
       <Footer />
     </Router>
