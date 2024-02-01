@@ -1,10 +1,9 @@
 # Jackson Wang's Portfolio
 The link of this portfolio is on https://arnold45202.github.io/MyPortfolio/
 ## Overview
-
 This portfolio was created for me to farmlise with React and to showcase my skills, projects, and a bit about myself.
 
-Tech stacked used: react.js, css, web3form, material Ui
+Tech stacked used: react.js, css, express, nodejs
 
 ## How to Run
 
