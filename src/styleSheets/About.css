@@ -32,9 +32,6 @@ section {
 }
 
 .aboutus {
-    float: right;  
-    margin-left: 140px;
-    margin-right: 350px;
-    margin-top: 130px;
-    border-radius: 30px;
+    border-radius: 100px;
+    margin-left: 50px;
 }

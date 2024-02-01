@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react';
 import '../styleSheets/About.css';
+import Navbar from '../components/Navbar';
 
 function About() {
   useEffect(() => {
