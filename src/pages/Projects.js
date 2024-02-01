@@ -20,8 +20,19 @@ function Projects() {
           <div className="project-details">
             <h2 className="project-title"><a href="https://arnold45202.github.io/MyPortfolio/" target="_blank" rel="noopener noreferrer" className='Project-title'>RISKIT (In the making)</a></h2>
             <h2 className='second-title'>Tech Stack: react, typescript, Firebase and more!</h2>
-            <p>Collabed with 2 other students and we created a virtual gambling website where it has a user authentication system, and gambling games with virtual money such as minesweeper and more</p>
+            <p>Collabed with 2 other UNSW students and we created a virtual gambling website where it has a user authentication system, and gambling games with virtual money such as minesweeper and more</p>
             <a href="https://github.com/Yangstaboi/RISKIT" target="_blank" rel="noopener noreferrer" className='github-logo'>
+              <GitHubIcon />
+            </a>
+          </div>
+        </div>
+        <div className="project-box">
+          <a href="https://github.com/Arnold45202/MyPortfolio" target="_blank" rel="noopener noreferrer" className='Project-title'><img className='gamePicture' src="https://cdn.discordapp.com/attachments/949224467127746610/1197826587136098304/image.png?ex=65bcadf0&is=65aa38f0&hm=9c9fef2246c5b34ccfd8d1397eb4c8c4fd48a51a330334f82f2dabe86c2493b7&&" alt="Project Image" /></a>
+          <div className="project-details">
+            <h2 className="project-title"><a href="https://whatstheweatherrightnow.netlify.app/" target="_blank" rel="noopener noreferrer" className='Project-title'>WeatherPal</a></h2>
+            <h2 className='second-title'>Tech Stack: React, javascript, CSS, MongoDB, Express, Nodejs</h2>
+            <p>WeatherPal stands out with its user authentication system, which ensures that passwords are securely hashed for maximum security. But that's just the beginning. Users can also connect with friends and engage in private chats, making weather planning hangouts more social and interactive. Plus, our sleek weather interface provides all the info you need to plan your day or week.</p>
+            <a href="https://github.com/Arnold45202/weatherApi" target="_blank" rel="noopener noreferrer" className='github-logo'>
               <GitHubIcon />
             </a>
           </div>
