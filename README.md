@@ -56,6 +56,9 @@ added a helmat to the website, where it shows the og:title and description.
 [1.0.6] - 19/01/2024
 added a new project that i collabed with my friends this summer which is a gambling called riskit
 
+[1.0.7] - 02/02/2024
+changed the favicon into JW, and i also fixed the about us page now the picture is consistently to the right of it, and i also changed the website 
+
 ## Errors yet to be fixed 
 
 18/01/2024 - when i go onto projects the nav bar moves a little bit, small error yet to be fixed right now 
