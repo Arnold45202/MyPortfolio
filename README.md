@@ -58,6 +58,9 @@ added a new project that i collabed with my friends this summer which is a gambl
 [1.0.7] - 02/02/2024
 changed the favicon into JW, and i also fixed the about us page now the picture is consistently to the right of it, and i also changed the contact us page into resume so when I click on it it would show me a pdf of the resume, and I also added one extra project which is weatherPal!!
 
+[1.0.8] - 11/02/2024
+changed the projects side now it works 
+
 ## Errors yet to be fixed 
 
 18/01/2024 - when i go onto projects the nav bar moves a little bit, small error yet to be fixed right now 
