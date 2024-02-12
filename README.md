@@ -67,4 +67,3 @@ changed the projects side now it works
 
 19/01/2024 - at the bottom i can't see the github logo becuase of the footer need to change the footer to be at hte really bottom same issue with the nav bar it's always there regardless of the location need to make it stay at the top
 
-19/01/2024 - when I submit a form for message and it would refresh but it would refresh and it would show result not found 
